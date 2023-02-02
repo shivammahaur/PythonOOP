@@ -8,7 +8,7 @@ This is a learning repository and will be constantly updated as i complete the c
 
 ## App 01: Geometery Game
 
-This app is made in jupyter notebooks using <mark>google colab</mark>.
+This app is made in jupyter notebooks using *google colab*.
 
 Basically an intro to python classes and class structure.
 
