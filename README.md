@@ -16,4 +16,32 @@ Basically an intro to python classes and class structure.
 
 ### Learnings
 
-1. 
+- Python has 9 things you work with:
+
+    ```python
+    a = 4
+    b = 5
+    c = [6, 7]
+
+    d = "Hi"
+    "Hello"
+
+    def area(x):
+        return x**2
+
+    area(3)
+    ```
+
+    From the above code :-
+
+    | Syntax | Description |
+    | ------ | ----------- |
+    | Objects | 4, 5, [6, 7], 6, 7, "Hello" |
+    | Identifiers | a, b, c, d, area, x |
+    | Operators | **, *, -, +, / etc. |
+    | Delimiters | =, " ( ) : [ ] |
+    | Keywords | def, return |
+    | Comments | # Code starting with hash |
+    | Blank Lines | As the name suggests |
+    | White Spaces | -do- |
+    | Indentation | -do- |
