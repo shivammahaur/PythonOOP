@@ -45,3 +45,39 @@ Basically an intro to python classes and class structure.
     | Blank Lines | As the name suggests |
     | White Spaces | -do- |
     | Indentation | -do- |
+
+- **What is a python object?**
+    
+    ```python
+    inty = 5
+    listy = [6, 7]
+
+    stringy = "Hi"
+
+    import folium
+    azores = folium.folium.Map(location = (38, -27), zoom_start = 6)
+    ```
+
+    We will use above code example to learn that.
+
+    Objects in the above code : 5, [6, 7], 6, 7, "Hi", folium.folium.Map(location = (38, -27), zoom_start = 6), 38, -27, 6
+
+    All objects have a type : 
+
+    | Object | Type |
+    | ------ | ---- |
+    | 5 | int |
+    | [6, 7] | list |
+    | "Hi" | string |
+    | Map | folium.folium.Map |
+
+    ```python
+    int(x = 5)
+    #5
+    list((6, 7))
+    #[6,7]
+    ```
+
+    Above all the declarations are the same as just writing the number or the list itself. Same goes for strings and other objects in python.
+
+---
