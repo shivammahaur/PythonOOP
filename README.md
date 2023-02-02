@@ -10,6 +10,8 @@ This is a learning repository and will be constantly updated as i complete the c
 
 This app is made in jupyter notebooks using *google colab*.
 
+[Colab](https://colab.research.google.com/drive/12vZFLA2pCE3zWKKs0mtR6ybIsWQDqA30?usp=sharing)
+
 Basically an intro to python classes and class structure.
 
 ### Learnings
